@@ -1,16 +1,9 @@
 # projectflutter
 
-A new Flutter project.
+A new Flutter project sử dụng https://fakestoreapi.com/products
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+B1: dart pub get  //để các import thư viện không lỗi
+B2: emulator -avd GG_Phone -dns-server 8.8.8.8 //chạy với dns gg
+B3: flutter run
